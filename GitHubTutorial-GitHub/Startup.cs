@@ -27,7 +27,7 @@ namespace GitHubTutorial_GitHub
 
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync("hi SudLife!");
+                await context.Response.WriteAsync("hi  hello SudLife!");
             });
         }
     }
